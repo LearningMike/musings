@@ -18,7 +18,7 @@ Why is facebook bad ?
 - They allow the spread of misinformation and abuse
 - They attack our right to freedom of speech
 
-But this looks like Apple, Google etc.
+But this looks like Apple, Google, Amazon etc. and basically every company in some way
 
 # Science
 Any time we learn, we have observed it to take a couple of arguable steps. Those steps - however divided, however long - are Science or "The Scientific Method".
