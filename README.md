@@ -13,10 +13,10 @@ Theoretically, if it were possible to read/track all variables (or enough, whate
 
 # Facebook Bad
 Why is facebook bad ?
-They monetize your data:
-They sell addiction:
-They allow the spread of misinformation and abuse
-They attack our right to freedom of speech
+- They monetize your data:
+- They sell addiction:
+- They allow the spread of misinformation and abuse
+- They attack our right to freedom of speech
 But this looks like Apple, Google etc.
 
 # Science
