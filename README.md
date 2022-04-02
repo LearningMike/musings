@@ -17,6 +17,7 @@ Why is facebook bad ?
 - They sell addiction:
 - They allow the spread of misinformation and abuse
 - They attack our right to freedom of speech
+
 But this looks like Apple, Google etc.
 
 # Science
