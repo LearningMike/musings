@@ -25,9 +25,6 @@ Any time we learn, we have observed it to take a couple of arguable steps. Those
 
 # P2P Competitive Model
 - User hosts an even number of games and joins as a client to an odd number of them.
-- If all health is full, both players get zero points.
-- Games that don’t end with death would be decided by health.
-- If the winning player is at fault, it’s a draw(1 point each).
 - Matchmaking? - Some little help from a server
 - Upload speed, location, ping would be considered to prevent bad connections.
 - There would be a local database for all of a player's games home/away, points, health.
