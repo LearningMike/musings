@@ -31,3 +31,15 @@ Any time we learn, we have observed it to take a couple of arguable steps. Those
 - There would be a report and suspect buttons (send local database for scrutiny?).
 - I just realized this is pointless
 
+# CO-OP Multiplayer Story Mode
+AI characters guide through the story, friends bring the fun.
+Because our friends are the funniest people. Best for VR where more player to AI 
+interaction is possible than player to player.
+
+# VR Library
+A library full of books that are actual books, pdfs and epubs found in your files 
+and its thickness determined by the number of pages.
+And it can be read with pages flipped.
+
+# AR AeroDynamics Game
+Let kids build an AR RC plane, while learning about how planes work.
