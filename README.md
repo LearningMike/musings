@@ -43,3 +43,9 @@ And it can be read with pages flipped.
 
 # AR AeroDynamics Game
 Let kids build an AR RC plane, while learning about how planes work.
+
+# Let Them Eat Cake
+Touch grass
+Enjoy reality
+Do it in real life
+All words from privileged people, not everyone did so well in the location lottery.
