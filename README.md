@@ -23,7 +23,7 @@ But this looks like Apple, Google, Amazon etc. and basically every company in so
 # Science
 Any time we learn, we have observed it to take a couple of arguable steps. Those steps - however divided, however long - are Science or "The Scientific Method".
 
-# Philosopy
+# Philosophy
 Scientists ar Philosophers that try to test their ideas.
 
 # P2P Competitive Model
