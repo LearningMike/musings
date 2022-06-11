@@ -9,7 +9,7 @@ Do not be afraid of Failure, try. All the people you admire are lucky, because t
 
 # Time Travel
 What if we stop thinking of time travel physically but think of it perspectively?
-Theoretically, if it were possible to read/track all variables (or enough, whatever that means). And predict the future accurately, being able to see the difference our decisions will make. Is that not time travel?
+Theoretically, if it were possible to read/track all variables (or enough, whatever that means) of a subject. And predict the future accurately, being able to see the difference our decisions/actions will make. Is that not time travel?
 
 # Facebook Bad
 Why is facebook bad ?
@@ -22,6 +22,9 @@ But this looks like Apple, Google, Amazon etc. and basically every company in so
 
 # Science
 Any time we learn, we have observed it to take a couple of arguable steps. Those steps - however divided, however long - are Science or "The Scientific Method".
+
+# Philosopy
+Scientists ar Philosophers that try to test their ideas.
 
 # P2P Competitive Model
 - User hosts an even number of games and joins as a client to an odd number of them.
