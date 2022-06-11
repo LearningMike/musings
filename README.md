@@ -24,7 +24,7 @@ But this looks like Apple, Google, Amazon etc. and basically every company in so
 Any time we learn, we have observed it to take a couple of arguable steps. Those steps - however divided, however long - are Science or "The Scientific Method".
 
 # Philosophy
-Scientists ar Philosophers that try to test their ideas.
+Scientists are Philosophers that try to test their ideas.
 
 # P2P Competitive Model
 - User hosts an even number of games and joins as a client to an odd number of them.
