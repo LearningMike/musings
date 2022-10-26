@@ -58,3 +58,7 @@ We say life imitates art because we’re not aware of the artist’s experience 
 
 # The Illusion of Consciousness
 I was reading one of those upload-your-consiousness-to-a-computer tropes and thought what if we're not minds/souls controlling our bodies as sci-fi and religions believe. Our bodies make us who we are, a bunch of chemicals with delusions of existence beyond those said chemicals.
+
+# Value in Virtual
+I imagine the first cave painters were ridiculed as they made fake animals instead of hunting the real thing. The mistake is assuming the virtual is here to replace the real, of course we're not going to eat the rock paintings of animals. But these paintings where the begining of communication beyond time and space, they must have evolved into hieroglyphs and then writing. Now remember Socrates and Plato argued that writing destroys memory and weakens the mind. Yet centuries later, i argue newton and einstein have contributed even more than they have using that platform.
+This simple idea of fake/made-up representations of real things; storing information in symbols, lead to video and computing. I don't have to tell you how important  the internet itself, youtube/wikipedia (and regional variants) are to humanity. How dare you ridicule the virtual when it is the foundation our civilization is built on.
