@@ -18,7 +18,7 @@ Why is facebook bad ?
 - They allow the spread of misinformation and abuse
 - They attack your right to freedom of speech
 
-But this looks like Apple, Google, Amazon etc. and basically every information/communication company in some way
+But this looks like Apple, Google, Amazon etc. and basically every information/communication company in some way. I finally understand what good PR is.
 
 # Science
 Any time we learn, we have observed it to take a couple of arguable steps. Those steps - however divided, however long - are Science or "The Scientific Method".
