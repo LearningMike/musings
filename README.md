@@ -48,3 +48,6 @@ It is important that you force yourself to believe this. Most people rationally 
 
 # The Ultimate Meaningless Picture
 When you visit a nice place and feel the urge to take a picture of yourself there. It’s because your brain predicts a dopamine opportunity from the social media reactions and memories, which will be triggered by a combination of your face and the environment. This subconscious urge also happens to scores of people I've seen don a VR headset. The result is a picture where everyone else, including the future version of you, can neither see the environment or yourself because half of your face is covered. Yet an urge persists, and we create the ultimate meaningless picture.
+
+# Storytelling as an Evolutionary Defect
+In human societies, emotional resonance has always outweighed logic. Our species didn't start off with much or any facts to begin with so the failure of an ancestor who had survived an experience with another species to effectively warn of their kind about the nature of that animal would assure their fatality in another encounter. We are descendants of those who survived. This susceptibility to stories, once a key element of survival and order, is now clashing with a recent invention of ours; the Internet.
