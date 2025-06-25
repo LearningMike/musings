@@ -51,3 +51,6 @@ When you visit a nice place and feel the urge to take a picture of yourself ther
 
 # Storytelling as an Evolutionary Defect
 In human societies, emotional resonance has always outweighed logic. Our species didn't start off with much or any facts to begin with so the failure of an ancestor who had survived an experience with another species to effectively warn of their kind about the nature of that animal would assure their fatality in another encounter. We are descendants of those who survived. This susceptibility to stories, once a key element of survival and order, is now clashing with a recent invention of ours; the Internet.
+
+# Reinventing The Wheel
+A misnomer. You cannot invent what already exists, you're just learning how to do it from scratch. Which is useful because you'll understand better how the wheel works, allowing you to make other things (windmills, bicycles, automobiles etc.) with the wheel. I think that is called invention, and guess what? The wheel was made from other things too, completing the wheel of life.
