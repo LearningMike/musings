@@ -54,3 +54,6 @@ In human societies, emotional resonance has always outweighed logic. Our species
 
 # Reinventing The Wheel
 A misnomer. You cannot invent what already exists, you're just learning how to do it from scratch. Which is useful because you'll understand better how the wheel works, allowing you to make other things (windmills, bicycles, automobiles etc.) with the wheel. I think that is called invention, and guess what? The wheel was made from other things too, completing the wheel of life.
+
+# Purpose, Prophecy, Power, Fear and Awe.
+The outstanding feature of AI (not that it is gestalt) is how convincing it is, literally what the Turing Test meant. While the goalposts keep shifting, it shows AI isn't getting any less convincing. We've found the ultimate marketing, the one persuasion to rule them all. Nothing has been on this level since ...religion.
